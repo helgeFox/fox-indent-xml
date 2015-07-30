@@ -1,0 +1,28 @@
+[
+    {
+        "caption": "Selection",
+        "children": [
+            {
+                "id": "format",
+                "caption": "Format",
+                "children": [
+                    { "caption": "-", "id": "myownplugins" },
+                    {
+                        "caption": "Reindent XML",
+                        "command": "indentxml"
+                    },
+                    {
+                        "caption": "FOX-indent XML",
+                        "command": "fox_cleanup_xml"
+                    },
+                    {
+                        "caption": "Alignment",
+                        "command": "alignment"
+                    }
+                ],
+                "id": "format"
+            }
+        ],
+        "id": "selection"
+    }
+]
