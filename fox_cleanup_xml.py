@@ -9,7 +9,7 @@ class foxCleanupXmlCommand(sublime_plugin.TextCommand):
     if (self._is_SFD()):
       self._clean_for_sfd();
     self._replace_all(r" xmlns=\"[\S]*?\"", "")
-    # test comment
+    # test comment changed again, now this should end up in version 1.0.3
     self.view.run_command("indentxml")
 
   def _get_file_content(self):
