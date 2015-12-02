@@ -25,4 +25,4 @@ And now the actual tool:
 
 ####Configuring
 
-You can configure the plugin like any other plugin in Sublime Text like keyboard shortcuts etc.
+You can configure the plugin like any other plugin in Sublime Text like keyboard shortcuts etc. Check out the (unofficial) [documentation](http://docs.sublimetext.info/en/latest/intro.html).
