@@ -1,4 +1,4 @@
-##SublimeText plugin: Cleaning tool for XML's in fox publish
+##SublimeText plugin: Cleaning tool for XML's in FOX Publish
 -----------------------------------------
 
 ### Installation
